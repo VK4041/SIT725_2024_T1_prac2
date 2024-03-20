@@ -1,0 +1,23 @@
+{
+  "name": "sit725_2024_t1_prac2",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "script.js",
+  "scripts": {
+    "start":"node script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VK4041/SIT725_2024_T1_prac2.git"
+  },
+  "author": "varun kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VK4041/SIT725_2024_T1_prac2/issues"
+  },
+  "homepage": "https://github.com/VK4041/SIT725_2024_T1_prac2#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
